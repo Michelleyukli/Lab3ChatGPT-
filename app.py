@@ -32,7 +32,3 @@ def setup_db():
                 )
             """)
             con.commit()
-
-
-if __name__ == "__main__":
-    main()
